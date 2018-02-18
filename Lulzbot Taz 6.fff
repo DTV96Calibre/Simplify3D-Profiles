@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<profile name="Lulzbot Taz 6" version="2018-02-18 12:18:22" app="S3D-Software 4.0.0">
+<profile name="Lulzbot TAZ 6" version="2018-02-18 12:18:22" app="S3D-Software 4.0.0">
   <baseProfile>Default (modified)</baseProfile>
   <printMaterial>PLA</printMaterial>
   <printQuality>Medium</printQuality>
