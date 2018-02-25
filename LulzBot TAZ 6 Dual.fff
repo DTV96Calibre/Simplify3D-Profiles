@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<profile name="LulzBot TAZ 6 Dual" version="2018-02-18 13:27:20" app="S3D-Software 4.0.0">
+<profile name="LulzBot TAZ 6 Dual" version="2018-02-25 12:46:14" app="S3D-Software 4.0.0">
   <baseProfile></baseProfile>
   <printMaterial>PLA</printMaterial>
   <printQuality>Medium</printQuality>
@@ -108,7 +108,7 @@
     <relayBetweenLayers>0</relayBetweenLayers>
     <relayBetweenLoops>0</relayBetweenLoops>
     <stabilizeAtStartup>1</stabilizeAtStartup>
-    <setpoint layer="1" temperature="205"/>
+    <setpoint layer="1" temperature="215"/>
   </temperatureController>
   <temperatureController name="Front Extruder">
     <temperatureNumber>1</temperatureNumber>
@@ -163,7 +163,7 @@
   <flipXoverride>1</flipXoverride>
   <flipYoverride>-1</flipYoverride>
   <flipZoverride>1</flipZoverride>
-  <toolheadOffsets>0,0|0,50|0,0|0,0|0,0|0,0</toolheadOffsets>
+  <toolheadOffsets>0,0|0.34,49.93|0,0|0,0|0,0|0,0</toolheadOffsets>
   <overrideFirmwareConfiguration>1</overrideFirmwareConfiguration>
   <firmwareTypeOverride>RepRap (Marlin/Repetier/Sprinter)</firmwareTypeOverride>
   <GPXconfigOverride>r2</GPXconfigOverride>
@@ -261,7 +261,7 @@
       <relayBetweenLayers>0</relayBetweenLayers>
       <relayBetweenLoops>0</relayBetweenLoops>
       <stabilizeAtStartup>1</stabilizeAtStartup>
-      <setpoint layer="1" temperature="205"/>
+      <setpoint layer="1" temperature="215"/>
     </temperatureController>
     <temperatureController name="Front Extruder">
       <temperatureNumber>1</temperatureNumber>
